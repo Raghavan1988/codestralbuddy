@@ -1,2 +1,2 @@
-# Yi-arXiv
-Use Yi model to do arXiv recommendations
+# Codestral-ollama
+Use Codestral model via Ollama to do semantic Code Search
